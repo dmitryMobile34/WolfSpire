@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527561947239",
+    "project_id": "wolf-spire",
+    "storage_bucket": "wolf-spire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527561947239:android:9044b373269fa8590b3cc2",
+        "android_client_info": {
+          "package_name": "com.vpn.free.hotspot.secure.vpnif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527561947239-mu3bo2j9q4dlm9fd2fjiaa364hssso0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwLUZZ8fo8QUZLRKW_d99XhmDIbB70wCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527561947239-mu3bo2j9q4dlm9fd2fjiaa364hssso0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
